@@ -1,4 +1,6 @@
-### Hi there 👋
+## 👋 I'm João Heytor.
+
+### About Me </h3>
 
 <!--
 **joaoheytor/joaoheytor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
