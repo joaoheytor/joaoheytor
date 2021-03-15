@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About Me
 TBD
 
-###🛠 Tech Stack
+###🛠 **Tech Stack**
 - 🔧 &nbsp; Git
 
 [![JoaoHeytor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoheytor&show_icons=true)](https://github.com/joaoheytor)
