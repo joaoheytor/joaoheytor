@@ -1,7 +1,3 @@
-## 👋 I'm João Heytor.
-
-### About Me </h3>
-
 <!--
 **joaoheytor/joaoheytor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 I'm João Heytor.
+
+### About Me
+TBD
+
+###🛠 Tech Stack
+- 🔧 &nbsp; Git
 
 [![JoaoHeytor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoheytor&show_icons=true)](https://github.com/joaoheytor)
