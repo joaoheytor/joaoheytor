@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 Hi
 
 <h3>🛠 Tech Stack</h3>
-- 🔧 &nbsp; Git
+&nbsp; Git
+&nbsp; Python
+
