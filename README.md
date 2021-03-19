@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 ## 👋 I'm João Heytor.
 
 <h3>About Me</h3>
-TBD
+Hi
 
 <h3>🛠 Tech Stack</h3>
 - 🔧 &nbsp; Git
-
-[![JoaoHeytor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoheytor&show_icons=true)](https://github.com/joaoheytor)
