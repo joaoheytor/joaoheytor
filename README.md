@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 ## 👋 I'm João Heytor.
 
 <h3>About Me</h3>
-- 💼 Working as a DevOps Engineer at Bees Brasil (Powered by Ambev)
+💼 Working as a DevOps Engineer at Bees Brasil (Powered by Ambev)
 
-<h3>🛠 Tech Stack</h3>
-- Ansible
-- Docker
-- Kubernetes
-- Python
-- ShellScript
-- Terraform
+<h3>Tech Stack</h3>
+🛠 Ansible | Docker | Kubernetes | Python | ShellScript | Terraform
+
+<h3>Contact</h3>
+📫 falecom@joaoheytor.com OR jhkpereira@gmail.com
