@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 ## 👋 I'm João Heytor.
 
 <h3>About Me</h3>
-Hi
+- 💼 Working as a DevOps Engineer at Bees Brasil (Powered by Ambev)
 
 <h3>🛠 Tech Stack</h3>
-&nbsp; Git
-&nbsp; Python
-
+- Ansible
+- Docker
+- Kubernetes
+- Python
+- ShellScript
+- Terraform
