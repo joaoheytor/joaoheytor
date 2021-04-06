@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💼 Working as a DevOps Engineer at Bees Brasil (Powered by Ambev)
 
 <h3>Tech Stack</h3>
-🛠 Ansible | Docker | Kubernetes | Python | ShellScript | Terraform
+🛠 Ansible | AWS | Azure | Docker | Kubernetes | Python | ShellScript | Terraform
 
 <h3>Contact</h3>
 📫 falecom@joaoheytor.com OR jhkpereira@gmail.com
