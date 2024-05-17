@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 👋 I'm João Heytor.
 
 <h3>About Me</h3>
-💼 Working as a DevOps Engineer at Bees Brasil (Powered by Ambev)
+💼 Currently solving problems and assisting people at the CPFL group.
 
 <h3>Tech Stack</h3>
 🛠 Ansible | AWS | Azure | Docker | Kubernetes | Python | ShellScript | Terraform
